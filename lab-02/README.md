@@ -1,22 +1,3 @@
-### Lab-02
-
-# Part 1: Choosing an Open Dataset
-The selected :
-•	Kaggle: https://www.kaggle.com/datasets 
-
-**Datasets**  is Predicting whether a customer will churn
-
-
-# Part 2: Defining the Machine Learning Problem
-
-•	Is this a regression, classification, or clustering problem?
-
-classification
-•	Is there a target variable?
-
- clear target variable called Churn (Yes/No).
-•	What is the model expected to learn or predict?
-
-predict whether a customer will churn (leave the service) or stay.
-
-# Part 3: Loading and Inspecting the Dataset in Python
+### Summary
+Dataset used: Telco Customer Churn (tabular dataset). The dataset contains customer demographic information and service details (e.g., tenure, contract type, payment method, internet service, and monthly/total charges).
+The machine learning task is binary classification where the target variable is Churn (Yes/No). The goal is to train a model that learns patterns from customer features and predicts whether a customer is likely to leave the service. This helps identify customers at risk and supports retention strategies.
