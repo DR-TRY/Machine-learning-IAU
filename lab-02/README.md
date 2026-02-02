@@ -3,4 +3,4 @@ Dataset used: Telco Customer Churn (tabular dataset). The dataset contains custo
 The machine learning task is binary classification where the target variable is Churn (Yes/No). The goal is to train a model that learns patterns from customer features and predicts whether a customer is likely to leave the service. This helps identify customers at risk and supports retention strategies.
 
 ## Methodology Diagram
-[Download the methodology diagram (PDF)](diagrams/.pdf)
+[Download the methodology diagram (PDF)](diagrams/napkin.pdf)
