@@ -35,12 +35,6 @@
   The notebook converts it to numeric and fills missing values using:
   `TotalCharges = MonthlyCharges * tenure`.
 
-## New flies:
-1- Data Visualization - `Matplotlib.ipynb`
-
-2- Data Visualization - `Seaborn.ipynb`
-
-
 1) Load the dataset and preview it
 
 How: Read Dataset.xlsx using pandas and preview rows with `head()` and `info()`.
@@ -95,3 +89,31 @@ Why: To find relationships between numeric variables and detect strong associati
 
 How: Analyze churn trends across different tenure (months) ranges.
 Why: The dataset has no dates, so tenure is used as a time-like indicator.
+
+## 1) 1- Data Visualization - Matplotlib.ipynb
+
+A beginner-friendly notebook that introduces Matplotlib (the core Python plotting library).
+
+What it covers:
+
+Installing and importing Matplotlib
+
+Creating basic plots (e.g., line plots)
+
+Adding labels, titles, and axis names
+
+Creating multiple plots on the same canvas (subplots)
+
+Using the Object-Oriented (OO) approach (figure and axes) for better control
+
+Adjusting figure size, DPI, and layout
+
+Saving figures to files
+
+Styling plots (colors, line width, line styles, markers)
+
+Controlling axis appearance and plot ranges
+
+Why it’s useful:
+
+Matplotlib gives you full control over how your plots look and is the foundation for many visualization tools in Python.
